@@ -1,6 +1,6 @@
 <h1 align="center">⚡ WSTGCLIPS ⚡</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Code+Architect+%7C+FiveM+Cheat+Developer+%7C+SMMA+CEO;%F0%9F%94%91+Private+Projects+%7C+Ghost+Mode+Active+%7C+Execution+Only" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Cheat+Developer+%7C+Exmark+Products+%7C+Spoofers+Executors+Scripts+;%F0%9F%94%91+Private+Projects+%7C+Ghost+Mode+Active+%7C+Execution+Only" />
 </p>
 
 ---
