@@ -10,7 +10,7 @@
 
 ## 🧬 EXMARK OVERRIDE INITIATED
 ```ts
-Developer: "WSTGCLIPS"
+Developer: "ClipsMods"
 CodeName: "EXMARK"
 Skills: ["Spoofers", "Executors", "FiveM", "Kernel Tricks", "UI Systems"]
 Current_Mode: "Private Deployment Only"
